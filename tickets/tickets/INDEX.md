@@ -2,7 +2,7 @@
 
 ## Active Tickets
 
-- Ticket 001 - (add title here) - Status: Open
+- Ticket 001 - Setting Up Artist Profile - Status: Open
 - Ticket 002 - (add title here) - Status: Open
 - Ticket 003 - Password Reset - Status: Open
 
