@@ -4,6 +4,6 @@ Status - Open
 
 Priority: Medium 
 
-Description: Reset User Password as he has forgotten it 
+Description: User has forgotten password and requires reset. 
 
 Assigned to T-money
