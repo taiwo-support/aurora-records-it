@@ -1,10 +1,10 @@
-# Ticket Index - T-Money Records
+Ticket Index - T-Money Records
 
-## Active Tickets
+Active Tickets
 
 - Ticket 001 - Setting Up Artist Profile - Status: Open
-- Ticket 002 - (add title here) - Status: Open
+- Ticket 002 - Set up README Improvements - Status: Open
 - Ticket 003 - Password Reset - Status: Open
 
-## Completed Tickets
+Completed Tickets
 - None yet
