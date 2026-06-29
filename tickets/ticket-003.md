@@ -1,9 +1,21 @@
-# Ticket 003 - Password Reset 
+# Ticket ID: 003
 
-Status - Open 
+## Title:
+Password Reset 
 
-Priority: Medium 
+## Status:
+Open
 
-Description: User has forgotten password and requires reset. 
+## Priority:
+Medium
 
-Assigned to T-money
+## Category:
+Account
+
+## Description:
+User has forgotten password and requires reset. 
+
+## Assigned To:
+T-money
+
+## Notes:
