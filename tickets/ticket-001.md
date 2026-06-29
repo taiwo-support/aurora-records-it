@@ -1,12 +1,24 @@
-# Ticket 001 - Example Issue
 
-Status: Open
-Priority: Medium
 
+Assigned to: T-money
+Ticket ID: 001
+Title:
+Setting Up Artist Profile 
+
+Status:
+Open
+
+Priority:
+Low
+
+Category:
+Account
 Description:
-Set Up New Artist Profile 
-Details: 
+A new Artist has been signed to the label and needs to be added to the network. 
 Name: Brandon Rogers 
 Stage Name: Buffer 
 
-Assigned to: T-money
+Assigned To:
+T-money 
+
+Notes:
