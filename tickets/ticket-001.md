@@ -1,6 +1,3 @@
-
-
-Assigned to: T-money
 Ticket ID: 001
 Title:
 Setting Up Artist Profile 
